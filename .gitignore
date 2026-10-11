@@ -1,0 +1,28 @@
+# Secrets - NEVER commit credentials (brief constraint)
+.env
+*.env
+secrets/
+config.local.*
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw data dumps (large, reproducible via extraction scripts)
+data/
+*.csv
+*.jsonl
+!results/*.csv
+
+# Database files / backups
+*.mdf
+*.ldf
+*.bak
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
