@@ -29,7 +29,7 @@ YouTube API┘   (src/extraction)  (database/staging)  (src/etl)  ├─ dim_dat
 
 ## Setup
 
-TODO: database installation, Python environment, API keys (via `.env`, never committed), how to run the pipeline.
+github.com/nymka-uaz-455/Project-work-neg/: database installation, Python environment, API keys (via `.env`, never committed), how to run the pipeline.
 
 ## Status
 
