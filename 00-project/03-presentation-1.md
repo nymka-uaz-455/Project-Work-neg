@@ -160,7 +160,7 @@ The main journeys cover data collection, processing, analysis, and troubleshooti
 5. Identify failed or incomplete loads before continuing.
 
 <!-- @note -->
-> The current Steam extraction code has been written but still needs verification with real data. YouTube extraction and broader game coverage remain planned work.
+
 
 ---
 
@@ -184,8 +184,6 @@ flowchart LR
 - Load the dimensional model so records can be analyzed consistently by game, source, date, and language.
 - Support incremental loading.
 
-<!-- @note -->
-> The final dimensional model and loading rules are still to be designed and implemented. The proposed database is Microsoft SQL Server, pending supervisor confirmation.
 
 ---
 
