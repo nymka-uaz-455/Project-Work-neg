@@ -201,7 +201,7 @@ flowchart LR
 5. Measure query performance and optimize at least five queries.
 
 <!-- @callout info -->
-> Example question: “How does the monthly volume of feedback differ between Steam and YouTube for each selected game?”
+
 
 <!-- @note -->
 > The project requires at least ten complex analytical queries. Results and performance measurements should be documented rather than merely claiming that a query is optimized.
